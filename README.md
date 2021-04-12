@@ -1,6 +1,6 @@
 # CSS Design Replication Challenge
 
-A quick project to demonstrate how closely I can replicate/copy a given design.
+A quick project to demonstrate how closely I can replicate/copy a given design. The result can be viewed [here on Github Pages](https://petter0619.github.io/copy-a-design/).
 
 ## Specification
 
