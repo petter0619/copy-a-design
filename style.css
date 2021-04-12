@@ -11,6 +11,10 @@ footer {
     height: 20px;
 }
 
+button {
+    outline: none;
+}
+
 .header {
     text-align: center;
     padding: 50px 10px;
